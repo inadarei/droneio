@@ -1,2 +1,4 @@
 # droneio
-Drone.io in a Container + Nginx config
+Drone.io Setup in a container
+
+ATTENTION: Work in progress.
